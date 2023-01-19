@@ -4,3 +4,5 @@ This is a practice repository
 #### This is a small header
 -These are bullet points
 -Github is a remarkable innovation.
+The goal is to be ruthlessly consistent.
+Day by day, we will get there
