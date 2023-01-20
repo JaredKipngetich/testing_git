@@ -6,3 +6,5 @@ This is a practice repository
 -Github is a remarkable innovation.
 The goal is to be ruthlessly consistent.
 Day by day, we will get there
+Tell the whole world 
+That Jesus is Lord
