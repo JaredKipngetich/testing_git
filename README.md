@@ -8,3 +8,6 @@ The goal is to be ruthlessly consistent.
 Day by day, we will get there
 Tell the whole world 
 That Jesus is Lord
+Tommorow i will begin
+Python for data science
+May He who never sleeps sweeten my path.
