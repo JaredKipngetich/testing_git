@@ -11,4 +11,7 @@ That Jesus is Lord
 Tommorow i will begin
 Python for data science
 May He who never sleeps sweeten my path.
+I took a break from studying data science.
+Now i am back.
+Remember it is not the lifetime opportunity but the lifetime of the opportunity.
 ## This the end
