@@ -16,4 +16,5 @@ Now i am back.
 Remember it is not the lifetime opportunity but the lifetime of the opportunity.
 I really hate banditry in the North Rift.
 Banditry should come to an end. It should be a thing of the past.
+The government should do all it can to end banditry.
 ## This the end
