@@ -17,4 +17,7 @@ Remember it is not the lifetime opportunity but the lifetime of the opportunity.
 I really hate banditry in the North Rift.
 Banditry should come to an end. It should be a thing of the past.
 The government should do all it can to end banditry.
+I am beginning my leave, data science i am coming to you like a wrecking ball.
+I love data and after this period, i will write a wonderful story using data.
+Watch this space.
 ## This the end
