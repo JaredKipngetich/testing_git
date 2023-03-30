@@ -23,6 +23,9 @@ print("My desired occupation is data scientist")
 
 print("Hakuna Matata")
 
+Today i have tried learning how to create interactive dashboard using python. It is a cool thing to learn however I did not grasp as much as i wanted. I will try again tommorrow.
+Data Visualisation is really cool. Every aspiring Data Scientist shoul learn.
+
 
 # *****
 # * Python
